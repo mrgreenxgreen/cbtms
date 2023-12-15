@@ -1,0 +1,21 @@
+.about-container{
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    gap:2.5em;
+}
+
+.about-one{
+   
+    width:1024px;
+
+    border:1px solid green;
+    
+    padding:1em;
+}
+
+.about-one img{
+    display:flex;
+    justify-content:center;
+    margin:2em;
+}

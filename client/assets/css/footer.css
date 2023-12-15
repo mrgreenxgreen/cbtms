@@ -1,0 +1,14 @@
+footer{
+    padding:2em;
+    width:100vw;
+    background-color: #3366cc;
+    color:white;
+    text-align:center;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+
+footer>table,tr,td,th{
+    border:none;
+}
